@@ -1,1 +1,1 @@
-# SoftServe_QAstuding
+# SoftServe_QAstudying
